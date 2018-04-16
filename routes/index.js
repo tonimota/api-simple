@@ -4,7 +4,7 @@ let products = require('./products');
 let cors = require('cors');
 
 router.use(cors());
-/* GET home page. */
+
 router.use('/products', products);
 
 
