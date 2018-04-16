@@ -1,7 +1,7 @@
 {
-  "name": "netshoes-api",
-  "version": "0.0.0",
-  "description": "A Vue.js project",
+  "name": "products-api",
+  "version": "1.0.0",
+  "description": "Project in Express.js",
   "author": "Tonielton Mota <toni.elton1993@gmail.com>",
   "private": true,
   "scripts": {
