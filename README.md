@@ -5,7 +5,7 @@ The Node.js app using [Express 4].
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
+Make sure you have [Node.js] installed.
 
 ```
 git clone https://github.com/tonimota/api-simple # or clone your own fork

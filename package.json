@@ -1,6 +1,8 @@
 {
   "name": "netshoes-api",
   "version": "0.0.0",
+  "description": "A Vue.js project",
+  "author": "Tonielton Mota <toni.elton1993@gmail.com>",
   "private": true,
   "scripts": {
     "start": "node app.js"
