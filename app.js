@@ -3,8 +3,9 @@ let express = require('express');
 let path = require('path');
 let cookieParser = require('cookie-parser');
 let logger = require('morgan');
-const port = 3001;
+const port = 3002;
 let indexRouter = require('./routes/index');
+// let usersRouter = require('./routes/users');
 
 let app = express();
 
@@ -18,6 +19,8 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+app.use('/', indexRouter);
+// app.use('/users', usersRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -38,9 +41,10 @@ app.use(function(err, req, res, next) {
 app.listen(port, function () {
   console.log('Example app listening on port ', port );
 });
+
 module.exports = app;
-// var express = require('express');
-// var app = express();
+// let express = require('express');
+// let app = express();
 
 // app.get('/', function (req, res) {
 //   res.send('Hello World!');
