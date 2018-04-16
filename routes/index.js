@@ -1,7 +1,9 @@
-var express = require('express');
-var router = express.Router();
-var products = require('./products');
+let express = require('express');
+let router = express.Router();
+let products = require('./products');
+let cors = require('cors');
 
+router.use(cors());
 /* GET home page. */
 router.use('/products', products);
 

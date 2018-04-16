@@ -43,10 +43,3 @@ app.listen(port, function () {
 });
 
 module.exports = app;
-// let express = require('express');
-// let app = express();
-
-// app.get('/', function (req, res) {
-//   res.send('Hello World!');
-// });
-
