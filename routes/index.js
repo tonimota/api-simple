@@ -5,6 +5,10 @@ let cors = require('cors');
 
 router.use(cors());
 
+router.get('/', (req, res) => {
+  res.json({ status: 'Server is running!' })
+})
+
 router.use('/products', products);
 
 
