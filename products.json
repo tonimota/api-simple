@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 0,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-nikecorinthians-1.jpg",
       "sku": 8552515751438644,
       "title": "Camisa Nike Corinthians I",
       "description": "14/15 s/nº",
@@ -20,6 +21,7 @@
     },
     {
       "id": 1,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-nikecorinthians-2.jpg",
       "sku": 18644119330491310,
       "title": "Camisa Nike Corinthians II",
       "description": "14/15 s/nº",
@@ -38,6 +40,7 @@
     },
     {
       "id": 2,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-feminina-nikecorinthians-1.jpg",
       "sku": 11854078013954528,
       "title": "Camisa Feminina Nike Corinthians I",
       "description": "14/15 s/nº",
@@ -54,6 +57,7 @@
     },
     {
       "id": 3,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-feminina-nikecorinthians-2.jpg",
       "sku": 876661122392077,
       "title": "Camisa Feminina Nike Corinthians II",
       "description": "2014 s/nº",
@@ -70,6 +74,7 @@
     },
     {
       "id": 4,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-nikecorinthians-1.jpg",
       "sku": 9197907543445676,
       "title": "Camisa Nike Corinthians I",
       "description": "14/15 s/nº - Jogador",
@@ -85,6 +90,7 @@
     },
     {
       "id": 5,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/kit-orinthians-camisa-nike-II.jpg",
       "sku": 10547961582846888,
       "title": "Kit Corinthians - Camisa Nike II",
       "description": "14/15 + Camiseta 1º Mundial",
@@ -102,6 +108,7 @@
     },
     {
       "id": 6,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/calcao-nike-corinthians.jpg",
       "sku": 6090484789343891,
       "title": "Calção Nike Corinthians",
       "description": "Goleiro 13/14",
@@ -118,6 +125,7 @@
     },
     {
       "id": 7,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-corinthians-replica.jpg",
       "sku": 18532669286405344,
       "title": "Camisa Corinthians Réplica",
       "description": "1977 Infantil",
@@ -133,6 +141,7 @@
     },
     {
       "id": 8,
+      "img": "https://s3.sa-east-1.amazonaws.com/vue-challenge/calcao-nike-strike-lgrwoven.jpg",
       "sku": 5619496040738316,
       "title": "Calção Nike Strike Lgr Woven",
       "description": "",
@@ -148,6 +157,7 @@
     },
     {
       "id": 9,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/jaqueta-corinthians-cp.jpg",
       "sku": 11600983276356164,
       "title": "Jaqueta Corinthians CP",
       "description": "",
@@ -164,6 +174,7 @@
     },
     {
       "id": 10,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/jaqueta-corinthians-urban-c-capuz.jpg",
       "sku": 27250082398145996,
       "title": "Jaqueta Corinthians Urban c/ Capuz",
       "description": "",
@@ -180,6 +191,7 @@
     },
     {
       "id": 11,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/jaqueta-corinthians-elite.jpg",
       "sku": 39876704341265610,
       "title": "Jaqueta Corinthians Elite",
       "description": "",
@@ -196,6 +208,7 @@
     },
     {
       "id": 12,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/tenis-nike-air-relentless.jpg",
       "sku": 12064273040195392,
       "title": "Tênis Nike Air Relentless",
       "description": "4 MSL",
@@ -212,6 +225,7 @@
     },
     {
       "id": 13,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/tenis-nike-biscuit-canvas.jpg",
       "sku": 51498472915966370,
       "title": "Tênis Nike Biscuit Canvas",
       "description": "",
@@ -227,6 +241,7 @@
     },
     {
       "id": 14,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-nike-academy.jpg",
       "sku": 10686354557628304,
       "title": "Camisa Nike Academy",
       "description": "GPX Poly 1",
@@ -244,6 +259,7 @@
     },
     {
       "id": 15,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-nike-corinthians.jpg",
       "sku": 11033926921508488,
       "title": "Camisa Nike Corinthians",
       "description": "Treino 2014",
@@ -262,6 +278,7 @@
     },
     {
       "id": 16,
+      "img": "https://vue-challenge.s3-sa-east-1.amazonaws.com/camisa-polo-corinthians-ouro.jpg",
       "sku": 10412368723880252,
       "title": "Camisa Polo Corinthians Ouro",
       "description": "",
